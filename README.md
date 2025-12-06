@@ -47,8 +47,8 @@ Key fields include:
 ## How to run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/PKTrance/sneaker-streetwear-sales-analysis.git
-   cd sneaker-streetwear-sales-analysis
+   git clone https://github.com/PKTrance/Global-Fashion-Market-Analysis.git
+   cd Global-Fashion-Market-Analysis
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
