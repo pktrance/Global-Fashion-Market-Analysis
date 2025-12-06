@@ -1,4 +1,4 @@
-# Sales Analytics: Global Fashion Market
+# Global Fashion Market Analysis
 
 ## Project Overview  
 Exploratory analysis and a simple next-month sales forecast on a simulated e-commerce dataset covering January–August 2022. The project highlights top products, product type distribution, payment preferences, country performance, and a one-step linear forecast.
